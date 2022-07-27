@@ -1,6 +1,6 @@
-- 👋 Hola! Soy @mrjosuecc
+- 👋 Hola! Soy @zioneee
 - 👀 Estoy muy interesado en la programación y bases de datos
-- 📫 Contactame en Discord! MrJosue#6320
+- 📫 Contactame en Discord! zioneee#0001
 
 <!---
 mrjosuecc/mrjosuecc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
