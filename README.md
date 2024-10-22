@@ -1,6 +1,6 @@
 # ¡Bienvenido!
 
-👋 Hola! Soy Josué, un joven programador de 20 años que reside en México.
+👋 Hola! Soy Josué, programador de 20 años que reside en México.
 Me interesa y apasiona mucho la programación, las bases de datos y la tecnología.
 
 -# 📫 ¿Quieres trabajar conmigo? ¡Contactame en Discord! @mrjosue
